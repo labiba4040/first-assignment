@@ -4,6 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+   
     
 }
 
@@ -13,7 +14,7 @@ body {
 }
 
 .first-page{
-    width: 1440px;
+    width: 1140px;
     height: 652px;
     margin: 0 auto;
     margin-top: 131px;
@@ -92,7 +93,7 @@ flex: none;
 order: 1;
 flex-grow: 0;
 margin: 32px 0px;
-text-decoration-line: none;
+
 
 }
 .btn{
@@ -105,6 +106,7 @@ letter-spacing: 0%;
 text-align: center;
 border-radius: 8px;
 cursor: pointer;
+text-decoration: none;
 
 
 
